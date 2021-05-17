@@ -28,6 +28,8 @@ Build a classifier to accurately predict the condition of water wells in Tanzani
 
 ## Conclusions
 
+- Decision tree was the most accurate model, 75%
+
 ![feature_importance_tanzania](https://user-images.githubusercontent.com/57383419/118529197-da98cb00-b708-11eb-887d-668871ed6319.png)
 
 - Construction year, waterpoint type, and GPS height were the most important features in the model
@@ -35,6 +37,6 @@ Build a classifier to accurately predict the condition of water wells in Tanzani
 ![gps_height_well_function](https://user-images.githubusercontent.com/57383419/118529211-dec4e880-b708-11eb-9a65-0308193411d4.png)
 ![waterpoint_type_status](https://user-images.githubusercontent.com/57383419/118529218-e08eac00-b708-11eb-9cd1-da3c1074be0f.png)
 
-
+- Moving forward, prioritize older wells and uncommon types of wells
 
 
